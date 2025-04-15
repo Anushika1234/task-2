@@ -1,0 +1,10 @@
+opencv-python==4.10.0.84
+facenet-pytorch==2.5.3
+tensorflow==2.17.0
+pandas==2.2.3
+openpyxl==3.1.5
+torch==2.4.1
+torchvision==0.19.1
+pillow==10.4.0
+tk==0.1.0
+numpy==1.26.4
